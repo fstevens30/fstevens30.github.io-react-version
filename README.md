@@ -8,11 +8,11 @@ I did this to sharpen my React skills as well as because the codebase for the pr
 
 ## Technologies
 
-* [React](https://reactjs.org/) - Frontend framework ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-* [Node.js](https://nodejs.org/en/) - Backend framework ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)
-* [Semantic UI](https://semantic-ui.com/) - React Component Library ![Semantic UI](https://cdn.worldvectorlogo.com/logos/semantic-ui.svg)
-* [Sass](https://sass-lang.com/) - CSS preprocessor ![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
-* [GitHub Pages](https://pages.github.com/) - Hosting ![GitHub Pages](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+* [React](https://reactjs.org/) - Frontend framework <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20">
+* [Node.js](https://nodejs.org/en/) - Backend framework <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20">
+* [Semantic UI](https://semantic-ui.com/) - React Component Library <img src="https://cdn.worldvectorlogo.com/logos/semantic-ui.svg" alt="Semantic UI" width="20" height="20">
+* [Sass](https://sass-lang.com/) - CSS preprocessor <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="20" height="20">
+* [GitHub Pages](https://pages.github.com/) - Hosting <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="20" height="20">
 
 ## Layout
 

@@ -1,0 +1,19 @@
+    //Import colors
+    @import '../../assets/colors.scss';
+    .projects-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        width: 100vw;
+        background-color: $background;
+        font-family: 'Roboto', sans-serif;
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    
+    // Enlarge the card element when the user moves the mouse over it
+    .card:hover {
+        transform: scale(1.1);
+    }

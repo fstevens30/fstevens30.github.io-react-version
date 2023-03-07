@@ -1,14 +1,19 @@
 // This is where I store the colors I use in my app.
-// Light theme
-$primary: #3f51b5;
-$secondary: #f50057;
-$accent: #ff4081;
-$warn: #ff5722;
-// Dark theme
-$primary-dark: #303f9f;
-$secondary-dark: #c51162;
-$accent-dark: #e040fb;
-$warn-dark: #e64a19;
-// Common
-$background: #fff;
-$background-dark: #000;
+// There are two sets of colors, one for the light theme and one for the dark theme.
+// The colors are stored as variables, so that I can easily change them.
+// Light theme colors
+$background: #F5F5F5;
+$secondary-background: #FFFFFF;
+$primary: #F3B61F;
+$secondary: #47A8BD;
+$tertiary: #202020;
+$quaternary: #999;
+$quinary: #000;
+// Dark theme colors
+$background-dark: #202020;
+$secondary-background-dark: #000;
+$primary-dark: #F3B61F;
+$secondary-dark: #47A8BD;
+$tertiary-dark: #F5F5F5;
+$quaternary-dark: #999;
+$quinary-dark: #000;

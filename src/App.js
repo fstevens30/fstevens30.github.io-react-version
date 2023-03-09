@@ -9,7 +9,6 @@ import Contact from './components/Contact/Contact.jsx';
 import Projects from './components/Projects/Projects.jsx';
 import Footer from './components/Footer/Footer.jsx';
 
-
 export default function App () {
   return (
     <main>

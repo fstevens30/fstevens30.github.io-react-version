@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/fstevens30.github.io-react-version/static/css/main.cb6e51f0.css",
-    "main.js": "/fstevens30.github.io-react-version/static/js/main.ce5ef23d.js",
+    "main.css": "/fstevens30.github.io-react-version/static/css/main.41c46db1.css",
+    "main.js": "/fstevens30.github.io-react-version/static/js/main.bc9a7932.js",
     "static/js/787.aeca62f9.chunk.js": "/fstevens30.github.io-react-version/static/js/787.aeca62f9.chunk.js",
     "static/media/brand-icons.svg": "/fstevens30.github.io-react-version/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/fstevens30.github.io-react-version/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/ToDo-React.png": "/fstevens30.github.io-react-version/static/media/ToDo-React.313e0140c5ad0c554729.png",
     "static/media/Flynn-Stevens-CV.pdf": "/fstevens30.github.io-react-version/static/media/Flynn-Stevens-CV.cb6cb489554918fb6a1d.pdf",
     "static/media/outline-icons.svg": "/fstevens30.github.io-react-version/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/fstevens30.github.io-react-version/static/media/icons.a01e3f2d6c83dc3aee17.eot",
@@ -13,6 +14,7 @@
     "static/media/brand-icons.ttf": "/fstevens30.github.io-react-version/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
     "static/media/brand-icons.woff": "/fstevens30.github.io-react-version/static/media/brand-icons.cac87dc00c87a5d74711.woff",
     "static/media/brand-icons.woff2": "/fstevens30.github.io-react-version/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/Vegan-Stats.png": "/fstevens30.github.io-react-version/static/media/Vegan-Stats.12fca5ca5cea20fd130c.png",
     "static/media/icons.woff": "/fstevens30.github.io-react-version/static/media/icons.425399f81e4ce7cbd967.woff",
     "static/media/flynn.png": "/fstevens30.github.io-react-version/static/media/flynn.5a73e25c6bef9f3265ed.png",
     "static/media/icons.woff2": "/fstevens30.github.io-react-version/static/media/icons.38c6d8bab26db77d8c80.woff2",
@@ -22,12 +24,12 @@
     "static/media/outline-icons.woff": "/fstevens30.github.io-react-version/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/fstevens30.github.io-react-version/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/fstevens30.github.io-react-version/index.html",
-    "main.cb6e51f0.css.map": "/fstevens30.github.io-react-version/static/css/main.cb6e51f0.css.map",
-    "main.ce5ef23d.js.map": "/fstevens30.github.io-react-version/static/js/main.ce5ef23d.js.map",
+    "main.41c46db1.css.map": "/fstevens30.github.io-react-version/static/css/main.41c46db1.css.map",
+    "main.bc9a7932.js.map": "/fstevens30.github.io-react-version/static/js/main.bc9a7932.js.map",
     "787.aeca62f9.chunk.js.map": "/fstevens30.github.io-react-version/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb6e51f0.css",
-    "static/js/main.ce5ef23d.js"
+    "static/css/main.41c46db1.css",
+    "static/js/main.bc9a7932.js"
   ]
 }

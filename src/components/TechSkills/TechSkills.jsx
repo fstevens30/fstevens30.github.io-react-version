@@ -20,7 +20,6 @@ export default function TechSkills() {
             <Icon name="github" size="big" />
             <Icon name="apple" size="big" />
             <Icon name="wordpress" size="big" />
-            <Icon name="figma" size="big" />
         </p>
         </Container>
     );
